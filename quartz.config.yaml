@@ -258,7 +258,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: minimal-dark-coder
+      theme: minimal
 layout:
   groups:
     toolbar:
