@@ -1,8 +1,7 @@
 ---
 publish: true
 title: ECE1390 BM - ICs for Sensors and Biomedical Devices
-created: 2026-04-09T17:12:35.376-04:00
-modified: 2026-04-11T01:47:07.958-04:00
+modified: 2026-04-12T00:18:51.057-04:00
 tags:
   - class/ECE1390BM
 ---
@@ -24,7 +23,7 @@ tags:
 
 ## Assignments
 
-- [[01 - Projects/ECE1390 BM A1 - Low Noise Amplifier]]
-- [[01 - Projects/ECE1390 BM A2 - Chopper Instrumentation Amplifier]]
-- [[01 - Projects/ECE1390 BM A3 - Image Sensor]]
+- [[ECE1390 BM A1 - Low Noise Amplifier]]
+- [[ECE1390 BM A2 - Chopper Instrumentation Amplifier]]
+- [[ECE1390 BM A3 - Image Sensor]]
 - [[Neural Stimulator]]

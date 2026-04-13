@@ -3,10 +3,9 @@ publish: true
 aliases:
   - denison2007
 title: A low-power low-noise cmos for amplifier neural recording applications
-created: 2026-04-09T17:00:49.604-04:00
-modified: 2026-04-10T06:36:44.362-04:00
+modified: 2026-04-12T01:48:36.895-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - neural-interface
 ---

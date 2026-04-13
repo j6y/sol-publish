@@ -3,10 +3,9 @@ publish: true
 aliases:
   - denison2007
 title: A 2 uW 100 nV per rtHz Chopper-Stabilized Instrumentation Amplifier for Chronic Measurement of Neural Field Potentials
-created: 2026-04-09T16:57:53.326-04:00
-modified: 2026-04-10T06:36:44.357-04:00
+modified: 2026-04-12T01:48:36.849-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - neural-interface
 ---

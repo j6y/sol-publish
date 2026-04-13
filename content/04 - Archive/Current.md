@@ -3,11 +3,9 @@ publish: true
 aliases:
   - current
   - ampere
-  - amperes
-  - amps
+  - amp
 title: Current
-created: 2026-04-11T18:36:12.787-04:00
-modified: 2026-04-11T19:45:18.879-04:00
+modified: 2026-04-12T04:30:04.541-04:00
 tags:
   - fundamental/physics
   - unit
@@ -18,9 +16,7 @@ tags:
 >
 > $$ I = \frac{dQ}{dt}$$
 >
-> units: ampere (A) = [[Electric Charge|coulomb]] (C) / second (s)
-> analogy: Flow of water through a pipe.
-
-## Notes
+> Units: ampere (A) = [[Electric Charge|coulomb]] (C) / second (s)
+> Analogy: Flow of water through a pipe.
 
 - Current is defined as the flow of positive charge; it follows the opposite sign convention as [[Electron|electron]] flow.

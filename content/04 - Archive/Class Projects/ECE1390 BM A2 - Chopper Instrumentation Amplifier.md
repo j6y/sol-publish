@@ -1,8 +1,7 @@
 ---
 publish: true
 title: Chopper Instrumentation Amplifier
-created: 2024-10-22
-modified: 2026-04-11T01:29:05.616-04:00
+modified: 2026-04-12T08:19:13.867-04:00
 tags:
   - class/ECE1390BM
   - 📦project

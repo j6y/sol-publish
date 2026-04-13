@@ -1,8 +1,7 @@
 ---
 publish: true
 title: Backrest
-created: 2026-04-09T17:41:24.376-04:00
-modified: 2026-04-11T17:36:55.792-04:00
+modified: 2026-04-13T05:15:21.169-04:00
 tags:
   - tool/backup
   - homelab
@@ -40,7 +39,7 @@ cd backrest && ./install.sh
 sudo systemctl edit backrest
 ```
 
-Add these two lines after the gap in the first comment.
+Add these two lines after the first comment.
 
 ```
 [Service]
@@ -68,7 +67,7 @@ Host <remote-server-name>
 - Host: choose any name.
 - (optional) Port: defaults to 22, [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/) uses 23.
 
-2. Create new [[SSH#SSH Key|SSH Key]] (if needed) and copy it to remote server.
+2. Create new [[Secure Shell Protocol#SSH Key|SSH Key]] (if needed) and copy it to remote server.
 
 ```shell
 ssh-keygen -t ed25519 -C "user@machine"

@@ -1,10 +1,9 @@
 ---
 publish: true
 title: The Art of Electronics
-created: 2026-04-09T16:40:13.795-04:00
-modified: 2026-04-10T06:27:20.470-04:00
+modified: 2026-04-12T01:48:49.310-04:00
 tags:
-  - 🌎resource/📚book
+  - 🌎resource/book
 socialImage: http://books.google.com/books/content?id=LAiWPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 ---
 

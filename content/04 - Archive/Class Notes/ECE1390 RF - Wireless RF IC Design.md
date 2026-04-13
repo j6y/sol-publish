@@ -1,8 +1,7 @@
 ---
 publish: true
 title: ECE1390 RF - Wireless RF IC Design
-created: 2026-04-09T17:12:35.399-04:00
-modified: 2026-04-11T01:51:47.781-04:00
+modified: 2026-04-12T00:18:20.540-04:00
 tags:
   - class/ECE1390RF
 ---
@@ -28,9 +27,9 @@ tags:
 ## Assignments
 
 - Repository: https://gitea.nodusk.me/jay/2025-meng-ece1390-rf
-- [[01 - Projects/ECE1390 RF A1 - Low Noise Amplifier]]
-- [[01 - Projects/ECE1390 RF A2 - Mixer]]
-- [[01 - Projects/ECE1390 RF A3 - Voltage Controlled Oscillator]]
+- [[ECE1390 RF A1 - Low Noise Amplifier]]
+- [[ECE1390 RF A2 - Mixer]]
+- [[ECE1390 RF A3 - Voltage Controlled Oscillator]]
 
 ## Resources
 

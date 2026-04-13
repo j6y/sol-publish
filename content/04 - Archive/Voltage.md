@@ -3,12 +3,10 @@ publish: true
 aliases:
   - voltage
   - volt
-  - volts
   - potential difference
   - electromotive force
 title: Voltage
-created: 2026-04-11T18:35:52.152-04:00
-modified: 2026-04-11T19:43:31.860-04:00
+modified: 2026-04-12T06:07:36.803-04:00
 tags:
   - fundamental/physics
   - unit
@@ -19,5 +17,5 @@ tags:
 >
 > $$ V = \frac{dW}{dQ} $$
 >
-> units: volt (V) =  [[Energy|joule]] (J) / [[Electric Charge|coulomb]] (C)
-> analogy: Water pressure between two points in pipe.
+> Unit: volt (V) =  [[Energy|joule]] (J) / [[Electric Charge|coulomb]] (C)
+> Analogy: Water pressure between two points in pipe.

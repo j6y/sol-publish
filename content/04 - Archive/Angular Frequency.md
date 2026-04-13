@@ -3,11 +3,9 @@ publish: true
 aliases:
   - angular frequency
   - radian
-  - radians
   - rad/s
 title: Angular Frequency
-created: 2026-04-09T17:16:13.434-04:00
-modified: 2026-04-11T19:50:51.373-04:00
+modified: 2026-04-12T11:03:01.110-04:00
 tags:
   - fundamental/signal
   - unit
@@ -18,11 +16,11 @@ tags:
 >
 > $$ \omega = \frac{d\theta}{dt} $$
 >
-> units: radian (rad) / second (s) = rad/s
+> Units: radian (rad) / second (s)
 
-## Mathematical Relations
+## Relations
 
-| Unit          | Equation            |
+| Parameter          | Equation            |
 | ------------- | ------------------- |
 | [[Frequency]] | $f = \omega / 2\pi$ |
 | [[Period]]    | $T = 2\pi / \omega$ |

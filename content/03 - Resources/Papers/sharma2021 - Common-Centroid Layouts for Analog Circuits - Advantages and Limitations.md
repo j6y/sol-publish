@@ -3,10 +3,9 @@ publish: true
 aliases:
   - sharma2021
 title: Common-Centroid Layouts for Analog Circuits - Advantages and Limitations
-created: 2026-04-09T17:04:27.251-04:00
-modified: 2026-04-10T06:47:55.673-04:00
+modified: 2026-04-12T01:48:36.918-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - layout
 ---

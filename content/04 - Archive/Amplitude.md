@@ -7,8 +7,7 @@ aliases:
   - root-mean-square
   - RMS
 title: Amplitude
-created: 2026-04-09T17:15:30.924-04:00
-modified: 2026-04-11T15:13:03.416-04:00
+modified: 2026-04-12T07:15:57.523-04:00
 tags:
   - fundamental/signal
 ---
@@ -32,8 +31,8 @@ $$ A\_{rms} = \sqrt{\frac{1}{T} \int^T\_{0} \[f(t)]^2 \ \ dt} $$
 | [[Square Wave]]   | $2 \cdot A\_{p}$         | $A\_{p}$                                            |
 | [[Triangle Wave]] | $2 \cdot A\_{p}$         | $\frac{A\_{p}}{\sqrt{3}} \approx 0.577 \cdot A\_{p}$ |
 
-## Mathematical Relations
+## Relations
 
 | Unit        | Equation                                    |
 | ----------- | ------------------------------------------- |
-| [[Decibel]] | $\text{dB} = 20\log\_{10} \frac{A}{A\_{ref}}$ |
+| [[Decibel]] | $\mathrm{dB} = 20\log\_{10} \frac{A}{A\_{ref}}$ |

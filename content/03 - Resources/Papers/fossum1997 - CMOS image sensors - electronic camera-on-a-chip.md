@@ -3,10 +3,9 @@ publish: true
 aliases:
   - fossum1997
 title: CMOS image sensors - electronic camera-on-a-chip Field Potentials
-created: 2026-04-09T17:00:26.533-04:00
-modified: 2026-04-10T06:36:44.360-04:00
+modified: 2026-04-12T01:48:36.876-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - image-sensor
 ---

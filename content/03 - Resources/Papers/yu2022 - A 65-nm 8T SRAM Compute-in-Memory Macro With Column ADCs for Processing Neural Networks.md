@@ -3,10 +3,9 @@ publish: true
 aliases:
   - yu2022
 title: A 65-nm 8T SRAM Compute-in-Memory Macro With Column ADCs for Processing Neural Networks Field Potentials
-created: 2026-04-09T17:05:38.981-04:00
-modified: 2026-04-10T06:47:29.203-04:00
+modified: 2026-04-12T01:48:36.982-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - digital
   - sram

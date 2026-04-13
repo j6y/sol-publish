@@ -3,10 +3,9 @@ publish: true
 aliases:
   - jie2021
 title: An Overview of Noise-Shaping SAR ADC - From Fundamentals to the Frontier
-created: 2026-04-09T17:01:19.733-04:00
-modified: 2026-04-10T06:48:54.058-04:00
+modified: 2026-04-12T01:48:36.898-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - data-conversion
 ---

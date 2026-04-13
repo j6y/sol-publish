@@ -3,10 +3,9 @@ publish: true
 aliases:
   - thurgood2009
 title: A Wireless Integrated Circuit for 100-Channel Charge-Balanced Neural Stimulation
-created: 2026-04-09T17:04:46.276-04:00
-modified: 2026-04-10T06:37:33.907-04:00
+modified: 2026-04-12T01:48:36.978-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - neural-interface
 ---

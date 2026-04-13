@@ -3,10 +3,9 @@ publish: true
 aliases:
   - liu2024
 title: An 8-channel high-voltage neural stimulation IC design with exponential waveform output
-created: 2026-04-09T17:04:03.510-04:00
-modified: 2026-04-10T06:48:07.507-04:00
+modified: 2026-04-12T01:48:36.899-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - neural-interface
 ---

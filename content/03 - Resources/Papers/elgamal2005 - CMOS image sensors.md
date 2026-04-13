@@ -3,10 +3,9 @@ publish: true
 aliases:
   - elgamal2005
 title: CMOS image sensors
-created: 2026-04-09T17:00:09.088-04:00
-modified: 2026-04-10T06:36:44.358-04:00
+modified: 2026-04-12T01:48:36.872-04:00
 tags:
-  - 🌎resource/🏛️paper
+  - 🌎resource/paper
   - analog
   - image-sensor
 ---
